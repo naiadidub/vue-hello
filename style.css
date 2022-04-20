@@ -1,0 +1,9 @@
+.backg{
+    background-color: bisque;
+}
+.maria{
+    display: none
+}
+.hidden{
+    display: inline-block;
+}
